@@ -12,6 +12,4 @@
 	<Item Name="dependencies" Type="Folder">
 		<Item Name="sanitize string.vi" Type="VI" URL="../dependencies/sanitize string.vi"/>
 	</Item>
-	<Item Name="wrap error metadata mini.vi" Type="VI" URL="../wrap error metadata mini.vi"/>
-	<Item Name="wrap error metadata.vi" Type="VI" URL="../wrap error metadata.vi"/>
 </Library>

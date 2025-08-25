@@ -13,9 +13,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Error Wrapper.lvlib" Type="Library" URL="../Error Wrapper.lvlib"/>
-		<Item Name="wrap error metadata mini.vi" Type="VI" URL="../wrap error metadata mini.vi"/>
-		<Item Name="wrap error metadata.vi" Type="VI" URL="../wrap error metadata.vi"/>
+		<Item Name="Error Wrapper.lvlib" Type="Library" URL="../Wrapper Error API/Error Wrapper.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
